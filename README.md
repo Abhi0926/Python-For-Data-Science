@@ -1,2 +1,3 @@
 # Python-For-Data-Science
-Adding 
+It's all about Python Libraries for Data Science.
+We'll be exploring Numpy, Pandas, Matplotlib.
